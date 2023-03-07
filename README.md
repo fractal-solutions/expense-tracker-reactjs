@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Getting Started with Expense Tracker
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+After downloading the project folder, from the expense-tracker-reactjs directory, run:
+### `npm install`
+
+this should install all the projects dependencies for the project for you to run available scripts and preview it!!
+
 
 ## Available Scripts
 
