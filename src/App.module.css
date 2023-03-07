@@ -1,0 +1,19 @@
+
+  .item {
+    @apply bg-white hover:bg-gray-300
+           rounded-xl
+           flex flex-col px-3 py-1 my-1 ml-16 w-10/12
+           shadow-lg hover:shadow-xl 
+           transition duration-300 ease-in-out
+           cursor-pointer select-none;
+  }
+
+
+.highlighted {
+    @apply bg-blue-200 hover:bg-gray-400
+           rounded-xl
+           flex flex-col px-3 py-1 my-1 ml-16 w-10/12
+           shadow-lg hover:shadow-xl 
+           transition duration-300 ease-in-out
+           cursor-pointer select-none;
+  }
